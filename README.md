@@ -27,5 +27,5 @@ The objective of this is to develop a serverless application that simplifies and
 - AWS Account with IAM User Access
 - GitHub Account
 - Google Cloud Account with Storage Access
-- Python Development Environment
+- NodeJs Development Environment
 - Basic understanding of AWS Lambda, SNS, DynamoDB, GitHub, Google Cloud Storage
